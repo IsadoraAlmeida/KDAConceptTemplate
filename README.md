@@ -11,6 +11,9 @@ KDA MORE Concept Template
 <img src="https://1.bp.blogspot.com/-Lsb9Ui2fLTs/X5oMVYAoAMI/AAAAAAAAcRU/XaSKYXpzIVQ3EPF7y-ZrAKSttDOQT6VPgCLcBGAsYHQ/s1891/Captura%2Bde%2BTela%2B2020-10-28%2Ba%25CC%2580s%2B21.25.49.png">
 </p>
 <p align="center">
+<img src="https://1.bp.blogspot.com/-HZB6JPFpom0/X5oOY9EZGPI/AAAAAAAAcRs/mzcTFYbOrJ0Ab_3G3hCxsXXFA1LZg7STgCLcBGAsYHQ/s1901/Captura%2Bde%2BTela%2B2020-10-28%2Ba%25CC%2580s%2B21.34.48.png">
+</p>
+<p align="center">
 <img src="https://1.bp.blogspot.com/-o06vngkqIaI/X5oMVpTugpI/AAAAAAAAcRY/OnylLqmyia0HvJNKY0_TimjWnu9EcDjqQCLcBGAsYHQ/s1894/Captura%2Bde%2BTela%2B2020-10-28%2Ba%25CC%2580s%2B21.26.06.png">
 </p>
 <p align="center">
