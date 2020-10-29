@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+section {
+    position: relative;
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    padding: 100px;
+    justify-content: space-between;
+    align-items: center;
+    background: #1E1E26;
+    transition: 0.5s;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    left: 0;
+}
+
+header .logo {
+    position: relative;
+    max-width: 16rem;
+}
+
+header ul {
+    position: relative;
+    display: flex;
+}
+
+header ul li{
+    list-style: none;
+}
+
+header ul li a{
+    display: inline-block;
+    font-weight: 400;
+    margin-left: 40px;
+    text-decoration: none;
+    color: #C3C2CF;    
+}
+
+.spot a:hover {
+    color: #1ED760;
+}
+
+.you a:hover {
+    color: #FF0100;
+}
+
+.apple a:hover {
+    color: #B253F3;
+}
+
+.deez a:hover {
+    color: #DF6033;
+}
+
+.content {
+    position: relative;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.content .textBox {
+    position: relative;
+    max-width: 450px;
+}
+
+.content .textBox h2{
+    color: #C3C2CF;
+    font-size: 3em;
+    line-height: 1.5em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.content .textBox h2 span{
+    font-size: 3em;
+}
+
+.content .textBox p {
+    color: whitesmoke;
+}
+
+.content .textBox a {
+    margin-top: 4rem;
+    padding: 8px 20px;
+    display: inline-block;
+    background: whitesmoke;
+    text-decoration: none;
+    color: #1E1E26;
+    border-radius: 40px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.content .textBox a:hover {
+    box-shadow: 0 0 20px #A2AAC9;
+}
+
+.content .imgBox {
+    width: 1000px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-right: 50px;
+    justify-content: center;
+}
+
+.content .imgBox img{
+    max-width: 100%;
+    border: 10px double #A2AAC9;
+    box-shadow: 0 0 10px #A2AAC9;
+}
+
+.thumb {
+    position: absolute;
+    display: flex;
+    left: 50%;
+    bottom: 20px;
+    transform: translateX(-50%);
+}
+
+.thumb li {
+    display: inline-block;
+    margin: 0 20px;
+    list-style: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.thumb li img {
+    max-width: 80px;
+}
+
+.thumb li:hover {
+    transform: translateY(-15px);
+}
+
+.sci {
+    position: absolute;
+    display: flex;
+    top: 50%;
+    right: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transform: translateY(-50%);
+}
+
+.sci li {
+    list-style: none;
+    transition: 0.5s;
+}
+
+.sci li a {
+    display: inline-block;
+    margin: 5px 0;
+    transform: scale(0.4);
+}
+
+.sci li:hover {
+    transform: translateX(-15px);
+}
+
+.seraph {
+    padding: 3rem;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.seraph h2 {
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 3.5em;
+    line-height: 1.5em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.seraph img {
+    max-width: 1000px;
+    border-bottom: 10px inset #1E1E26;
+    box-shadow: 0 0 10px #1E1E26;
+}
+
+.seraph p {
+    max-width: 900px;
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #1E1E26;
+    box-shadow: 0 0 10px #171754;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#end-page {
+    background: #1E1E26;
+    width: 100%;
+    height: 600px;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#end-page h2 {
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    color: #C3C2CF;
+}
+
+#end-page iframe {
+    margin-bottom: 4rem;
+} 
+
+#end-page footer {
+    margin-top: 3rem;
+    margin-bottom: -1rem;
+    color: #C3C2CF;
+}
+
+footer {
+    border-top: 1px double white;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: #C3C2CF;
+}
