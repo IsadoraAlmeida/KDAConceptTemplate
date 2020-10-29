@@ -7,7 +7,7 @@ function infos(val) {
         case 'KDAS':
             document.querySelector('.textBox').innerHTML = `
             <h2>AS ESTRELAS DO <br><span>SHOW</span></h2>
-            <p>A mais nova parceira do K/DA é Seraphine, uma produtora e compositora jovem e talentosa. Ela usa a música para se conectar consigo mesma e com outras pessoas, e, ao lado do K/DA, está decidida a expandir ainda mais esse contato. Sincera e generosa, o sonho de Seraphine é unir o mundo por meio da arte.</p>
+            <p>With a lively and hard-hitting sound rich in K-Pop, hip-hop, and EDM influences, K/DA exploded onto the music scene in 2018 with their hit song "POP/STARS". Founded by the otherworldly, elegant Ahri and the enthralling diva Evelynn, K/DA soon added Kai'sa's mind-bending choreography and Akali's swaggering, rapid-fire lyricism to their roster.</p>
             <a href="#seraSection">Descubra a ARTISTA CONVIDADA</a>
             `
           break;
